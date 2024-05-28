@@ -8,7 +8,11 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
+  - [Running the System](#running-the-system)
+- [File Descriptions](#file-descriptions)
+- [System Poster](#system-poster)
+- [Results](#results)
+- [Conclusion](#conclusion)
 - [Contributing](#contributing)
 - [Contact](#contact)
 - [Acknowledgment](#acknowledgment)
@@ -17,10 +21,21 @@
 
 **DineOps** is an innovative restaurant technology system developed as part of a Human-Computer Interaction (HCI) course at university. It aims to revolutionize the dining experience by providing streamlined and interactive menu navigation for patrons. This repository focuses on the TUIO Object Markers approach using C#.
 
+- **Python-Based Navigation**: Utilizes gesture recognition to navigate and select menu items by pointing in front of the table.
+- **TUIO Object Markers with C#**: Allows users to interact with menus using object markers.
+- **Unity-Powered Solution**: Combines markers and hand gestures for a fully immersive menu interaction experience.
+ 
+
+
+This repository focuses exclusively on the TUIO Object Markers with C# component of the DineOps system.
+
+The Python-based navigation component can be found in this [GitHub repository](https://github.com/mazen251/DineOps-Python.git).
+
+The Unity-powered solution is available in this [GitHub repository](#).
 
 ## System Architecture
 
-![System UI](gitAssets/DineOps.png)
+![System UI](gitAssets/DineOpsw.png)
 
 ## Technologies and Tools
 
@@ -92,6 +107,15 @@ DineOps represents a significant advancement in restaurant technology. Participa
 
 Continuous improvement and iteration are essential for DineOps to establish itself as the future of dining technology, promising unparalleled convenience and engagement for patrons worldwide.
 
+## Contributing
+
+contributions are welcomed to improve this project. To contribute, please follow these steps:
+
+- Fork the repository.
+- Create a new branch (git checkout -b feature/your-feature).
+- Commit your changes (git commit -m 'Add some feature').
+- Push to the branch (git push origin feature/your-feature).
+- Open a pull request.
 
 ## Contact
 
